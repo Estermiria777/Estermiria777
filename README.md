@@ -17,14 +17,7 @@
 <!-- Streak Stats Girly Tech -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estermiria777&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493&sideLabels=4A4A4A&currStreakNum=FF1493&sideNums=4A4A4A&dates=4A4A4A" />
 
-<br/><br/>
 
-<!-- Snake Contribution Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-user-contribution-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-user-contribution-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-user-contribution-snake.svg">
-</picture>
 
 <br/><br/>
 
