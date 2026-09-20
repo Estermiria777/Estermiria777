@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on AI Engineer
 - 🌱 I’m currently learning Machine Learning
 
-(https://github-readme-stats.vercel.app/apiestermiria777=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/apiEstermiria777=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
