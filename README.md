@@ -1,20 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFB3D1,100:FF8FAB&height=160&section=header&text=Oiii!%20Eu%20sou%20a%20Ester%20Freire&fontSize=32&fontColor=6B2737&fontAlign=50&fontAlignY=45&animation=fadeIn" />
+<!-- Header Waving Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FFFFFF&height=160&section=header&text=Hello,%20World!%20I'm%20Ester%20Freire&fontSize=32&fontColor=FF1493&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=D6336C&center=true&vCenter=true&width=560&lines=Computer+Science+%7C+AI+Engineering;GraphRAG+%C2%B7+Agents+%C2%B7+Full-Stack" alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=FF69B4&center=true&vCenter=true&width=560&lines=Computer+Science+%7C+AI+Engineering" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Stats Girly Tech -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Estermiria777&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=4A4A4A" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Estermiria777&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=4A4A4A" height="165" />
 
 <br/>
 
-<a href="mailto:emiria.freire@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD6E8?style=for-the-badge&logo=gmail&logoColor=D6336C" /></a>
-<a href="[SEU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=D6336C" /></a>
-<a href="[SEU_GITHUB]"><img src="https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=D6336C" /></a>
+<!-- Streak Stats Girly Tech -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Estermiria777&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493&sideLabels=4A4A4A&currStreakNum=FF1493&sideNums=4A4A4A&dates=4A4A4A" />
+
+<br/><br/>
+
+<!-- Snake Contribution Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-user-contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-user-contribution-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-user-contribution-snake.svg">
+</picture>
+
+<br/><br/>
+
+<!-- Tech Stack -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,cs&theme=light" />
 
 </div>
 
 <br/>
 
-## 💌 About Me
+## About Me
 
 Computer Science graduate finishing a Master's in Artificial Intelligence Engineering (ISEP, Portugal), with a background in AI systems, full-stack development, and data-driven applications. Founder of a tech startup, with hands-on experience across GraphRAG, autonomous agents, and computer vision.
 
@@ -22,67 +43,24 @@ Computer Science graduate finishing a Master's in Artificial Intelligence Engine
 
 <br/>
 
-## 🛠️ Tech Stack
+<div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs&theme=light" />
-</p>
+<a href="mailto:emiria.freire@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD6E8?style=for-the-badge&logo=gmail&logoColor=FF1493" /></a>
+<a href="https://www.linkedin.com/in/ester-freire-84405a237/"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=FF1493" /></a>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Estermiria777&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=D6336C&icon_color=FF8FAB&text_color=6B2737" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Estermiria777&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=D6336C&text_color=6B2737" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Estermiria777&hide_border=true&background=FFF0F5&ring=FF8FAB&fire=D6336C&currStreakLabel=D6336C&sideLabels=6B2737&currStreakNum=6B2737&sideNums=6B2737&dates=6B2737" />
-</p>
-
-<br/>
-
-## 🎓 Education
-
-| | Degree | Institution |
-|:---:|---|---|
-| 🇵🇹 | Master's in Artificial Intelligence Engineering *(finishing)* | Polytechnic Institute of Porto (ISEP), Portugal |
-| 🇧🇷 | Bachelor's in Computer Science | Federal Institute of Maranhão (IFMA), Brazil |
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake animation](https://github.com/Estermiria777/Estermiria777/blob/output/github-contribution-grid-snake2.svg)
+📞 +351 913355469
 
 </div>
 
-<!--
-  To activate this animation, add a file at
-  .github/workflows/snake.yml in Estermiria777/Estermiria777 with:
+<br/>
 
-  name: generate snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch: {}
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Estermiria777
-            outputs: |
-              dist/github-contribution-grid-snake2.svg
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+<div align="center">
 
+## Education
+
+| Country | Degree | Institution |
+| :---: | :---: | :---: |
+| 🇵🇹 | Master's in Artificial Intelligence Engineering *(finishing)* | Polytechnic Institute of Porto (ISEP), Portugal |
+| 🇧🇷 | Bachelor's in Computer Science | Federal Institute of Maranhão (IFMA), Brazil |
+
+</div>
