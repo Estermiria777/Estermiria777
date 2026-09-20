@@ -46,11 +46,7 @@ Computer Science graduate finishing a Master's in Artificial Intelligence Engine
 
 <br/>
 
-## Contribution Snake 🐍
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-contribution-grid-snake.svg" alt="a snake eating my GitHub contribution graph" />
-</div>
+![snake animation](https://github.com/<Estermiria777>/<Estermiria777>/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
   To activate this animation, add a file at
