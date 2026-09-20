@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Waving Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FFFFFF&height=160&section=header&text=Hello,%20World!%20I'm%20Ester%20Freire&fontSize=32&fontColor=FF1493&fontAlign=50&fontAlignY=45&animation=fadeIn" />
+<img width="100%%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FFFFFF&height=160&section=header&text=Hello,%20World!%20I'm%20Ester%20Freire&fontSize=32&fontColor=FF1493&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=FF69B4&center=true&vCenter=true&width=560&lines=Computer+Science+%7C+AI+Engineering" alt="Typing SVG" />
@@ -30,7 +30,7 @@
 
 ## About Me
 
-Computer Science graduate finishing a Master's in Artificial Intelligence Engineering (ISEP, Portugal), with a background in AI systems, full-stack development, and data-driven applications. Founder of a tech startup, with hands-on experience across GraphRAG, autonomous agents, and computer vision.
+Computer Science graduate finishing a Master's in Artificial Intelligence Engineering (ISEP, Portugal), with a background in AI systems, full-stack development, and data-driven applications. Founder of a tech startup (AgroVacina), with hands-on experience across GraphRAG, autonomous agents, and computer vision.
 
 🌐 **English** · **Portuguese** · **Spanish**
 
@@ -38,9 +38,10 @@ Computer Science graduate finishing a Master's in Artificial Intelligence Engine
 
 <div>
 
-<a href="mailto:emiria.freire@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD6E8?style=for-the-badge&logo=gmail&logoColor=FF1493" /></a>
 <a href="https://www.linkedin.com/in/ester-freire-84405a237/"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=FF1493" /></a>
-
+<br>
+Email: Emiria.freire@gmail.com
+<br>
 📞 +351 913355469
 
 </div>
