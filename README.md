@@ -20,9 +20,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estermiria777&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493&sideLabels=4A4A4A&currStreakNum=FF1493&sideNums=4A4A4A&dates=4A4A4A" />
 
-<br/><br/>
-
-<br/><br/>
+<br> 
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,cs&theme=light" />
 
