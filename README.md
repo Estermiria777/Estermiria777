@@ -57,4 +57,11 @@ Email: Emiria.freire@gmail.com
 | 🇵🇹 | Master's in Artificial Intelligence Engineering *(finishing)* | Polytechnic Institute of Porto (ISEP), Portugal |
 | 🇧🇷 | Bachelor's in Computer Science | Federal Institute of Maranhão (IFMA), Brazil |
 
-</div>
+</div
+
+  <!-- Snake Game Grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-contribution-grid-snake.svg">
+</picture>
