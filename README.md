@@ -1,27 +1,29 @@
 <div align="center">
 
-<!-- Header Waving Gradient -->
-<img width="100%%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FFFFFF&height=160&section=header&text=Hello,%20World!%20I'm%20Ester%20Freire&fontSize=32&fontColor=FF1493&fontAlign=50&fontAlignY=45&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FFFFFF&height=165&section=header&text=Hello,%20World!%20I'm%20Ester%20Freire&fontSize=32&fontColor=FF1493&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
-<!-- Typing SVG -->
+<div align="center" style="margin-top: -10px; margin-bottom: -10px;">
+  <img src="https://i.pinimg.com/originals/e6/1a/f1/e61af1c407a3042e6a505528fd2aa727.gif" width="70" alt="Waving Cat Paw" />
+</div>
+
+<!-- Typing SVG (Aproximado da patinha e das estatísticas) -->
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=FF69B4&center=true&vCenter=true&width=560&lines=Computer+Science+%7C+AI+Engineering" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<!-- Stats Girly Tech -->
+
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Estermiria777&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=4A4A4A" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Estermiria777&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=4A4A4A" height="165" />
 
 <br/>
 
-<!-- Streak Stats Girly Tech -->
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estermiria777&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493&sideLabels=4A4A4A&currStreakNum=FF1493&sideNums=4A4A4A&dates=4A4A4A" />
-
-
 
 <br/><br/>
 
-<!-- Tech Stack -->
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,cs&theme=light" />
 
 </div>
@@ -57,11 +59,4 @@ Email: Emiria.freire@gmail.com
 | 🇵🇹 | Master's in Artificial Intelligence Engineering *(finishing)* | Polytechnic Institute of Porto (ISEP), Portugal |
 | 🇧🇷 | Bachelor's in Computer Science | Federal Institute of Maranhão (IFMA), Brazil |
 
-</div
-
-  <!-- Snake Game Grid -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Estermiria777/Estermiria777/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
