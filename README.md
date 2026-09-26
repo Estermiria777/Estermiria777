@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FFFFFF&height=165&section=header&text=Hello,%20World!%20I'm%20Ester%20Freire&fontSize=32&fontColor=FF1493&fontAlign=50&fontAlignY=45&animation=fadeIn" />
 
 <div align="center" style="margin-top: -10px; margin-bottom: -10px;">
-  <img src="https://i.pinimg.com/originals/e6/1a/f1/e61af1c407a3042e6a505528fd2aa727.gif" width="70" alt="Waving Cat Paw" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/047/985/076/original/pxsprite-kirby-hello.gif?1648923293" width="150" alt="Waving Cat Paw" />
 </div>
 
 <!-- Typing SVG (Aproximado da patinha e das estatísticas) -->
